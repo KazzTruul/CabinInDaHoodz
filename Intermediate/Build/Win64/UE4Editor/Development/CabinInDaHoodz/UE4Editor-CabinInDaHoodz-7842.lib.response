@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CabinInDaHoodz-7842.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\CabinInDaHoodz\Intermediate\Build\Win64\UE4Editor\Development\CabinInDaHoodz\CabinInDaHoodz.cpp.obj"
+"D:\Unreal Projects\CabinInDaHoodz\Intermediate\Build\Win64\UE4Editor\Development\CabinInDaHoodz\Inventory.cpp.obj"
+"D:\Unreal Projects\CabinInDaHoodz\Intermediate\Build\Win64\UE4Editor\Development\CabinInDaHoodz\PCLaunch.rc.res"
+/OUT:"D:\Unreal Projects\CabinInDaHoodz\Intermediate\Build\Win64\UE4Editor\Development\CabinInDaHoodz\UE4Editor-CabinInDaHoodz-7842.lib"

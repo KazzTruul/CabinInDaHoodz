@@ -1,0 +1,9 @@
+﻿  Cleaning CabinInDaHoodzEditor Binaries...
+UnrealBuildTool : error : Unable to clean target while hot-reloading. Close the editor and try again.
+                          (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+  Creating makefile for hot reloading CabinInDaHoodzEditor (changes to module files)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+UnrealBuildTool : error : Could not find definition for module 'Inventory' (referenced via Target -> CabinInDaHoodz.Build.cs)
+                          (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command ""D:\Epic Games\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat" CabinInDaHoodzEditor Win64 Development "D:\Unreal Projects\CabinInDaHoodz\CabinInDaHoodz.uproject" -WaitMutex -FromMsBuild" exited with code -1.
