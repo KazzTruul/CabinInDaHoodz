@@ -1,0 +1,1593 @@
+﻿Log file open, 12/19/18 16:10:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CabinInDaHoodz
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.874848
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.341s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.016s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.19-15.10.22:557][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Engine.ini]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Engine.ini]
+[2018.12.19-15.10.22:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Engine.ini]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.19-15.10.22:558][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Engine.ini]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.19-15.10.22:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Engine.ini]
+[2018.12.19-15.10.22:559][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Engine.ini]
+[2018.12.19-15.10.22:662][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.19-15.10.22:662][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.19-15.10.22:663][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.19-15.10.22:664][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.19-15.10.22:664][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.19-15.10.22:664][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.19-15.10.22:664][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.19-15.10.22:664][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:664][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.19-15.10.22:664][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.19-15.10.22:669][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.19-15.10.22:670][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.19-15.10.22:747][  0]LogHAL: Display: Platform has ~ 16 GB [17170534400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.19-15.10.22:751][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.19-15.10.22:751][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.19-15.10.22:751][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.19-15.10.22:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.19-15.10.22:753][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.19-15.10.22:754][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.19-15.10.22:754][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.19-15.10.22:754][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.19-15.10.22:754][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.19-15.10.22:754][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.19-15.10.22:754][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Scalability.ini]
+[2018.12.19-15.10.22:754][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.19-15.10.22:754][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.19-15.10.22:754][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.19-15.10.22:778][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.19-15.10.22:778][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/CabinInDaHoodz/Saved/Config/Windows/Engine.ini]
+[2018.12.19-15.10.22:814][  0]LogInit: Computer: KAZZCOMP
+[2018.12.19-15.10.22:815][  0]LogInit: User: Admin
+[2018.12.19-15.10.22:815][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.19-15.10.22:815][  0]LogInit: High frequency timer resolution =2.610081 MHz
+[2018.12.19-15.10.22:827][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.12.19-15.10.22:827][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.19-15.10.22:827][  0]LogMemory: Process Physical Memory: 102.45 MB used, 102.45 MB peak
+[2018.12.19-15.10.22:827][  0]LogMemory: Process Virtual Memory: 91.61 MB used, 91.61 MB peak
+[2018.12.19-15.10.22:827][  0]LogMemory: Physical Memory: 4174.25 MB used,  12200.85 MB free, 16375.10 MB total
+[2018.12.19-15.10.22:827][  0]LogMemory: Virtual Memory: 4647.79 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.19-15.10.23:641][  0]LogInit: Using OS detected language (sv-SE).
+[2018.12.19-15.10.23:642][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.12.19-15.10.23:690][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.12.19-15.10.24:863][  0]LogStreaming: Display: Took  1.212s to InitEngineTextLocalization.
+[2018.12.19-15.10.24:873][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.19-15.10.25:624][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.19-15.10.25:624][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.19-15.10.33:578][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.12.19-15.10.33:578][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.19-15.10.33:646][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.12.19-15.10.33:647][  0]LogD3D11RHI:       4053/0/8187 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.19-15.10.33:661][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.19-15.10.33:661][  0]LogD3D11RHI:       0/0/8187 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.19-15.10.33:661][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.19-15.10.33:682][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.19-15.10.33:682][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.19-15.10.33:682][  0]LogWindows: EnumDisplayDevices:
+[2018.12.19-15.10.33:682][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.12.19-15.10.33:682][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.12.19-15.10.33:683][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.12.19-15.10.33:683][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.12.19-15.10.33:683][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.19-15.10.33:683][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.12.19-15.10.33:683][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.12.19-15.10.33:683][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.12.19-15.10.33:684][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.12.19-15.10.33:749][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.19-15.10.33:998][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.19-15.10.35:212][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.19-15.10.35:253][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.19-15.10.35:284][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.19-15.10.35:313][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.19-15.10.35:385][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.19-15.10.35:439][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.19-15.10.35:478][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.19-15.10.35:505][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.19-15.10.35:527][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.19-15.10.35:701][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:701][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:701][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:701][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:702][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.19-15.10.35:717][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.19-15.10.35:909][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.19-15.10.35:909][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.19-15.10.35:975][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.19-15.10.35:975][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.19-15.10.36:012][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.19-15.10.36:042][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.19-15.10.36:069][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.19-15.10.36:120][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.19-15.10.36:207][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.19-15.10.36:207][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.19-15.10.36:207][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.19-15.10.37:020][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../Unreal Projects/CabinInDaHoodz/Intermediate/Shaders/WorkingDirectory/12360/).
+[2018.12.19-15.10.37:021][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/4C518C15435B2012A65BD1B2A7A1E8EE/'.
+[2018.12.19-15.10.37:064][  0]LogXGEController: Cleaning working directory: C:/Users/Admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.19-15.10.37:065][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.19-15.10.37:065][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.19-15.10.37:065][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.19-15.10.41:694][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.19-15.10.41:858][  0]LogDerivedDataCache: Loaded boot cache 0.16s 72MB C:/Users/Admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.19-15.10.41:858][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.19-15.10.41:859][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/CabinInDaHoodz/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.19-15.10.41:859][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.19-15.10.41:859][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/CabinInDaHoodz/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.19-15.10.41:859][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.19-15.10.41:949][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.19-15.10.41:949][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.19-15.10.41:949][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.19-15.10.41:986][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.19-15.10.41:986][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.19-15.10.41:986][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.19-15.10.42:086][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.19-15.10.42:182][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.19-15.10.42:306][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.19-15.10.43:795][  0]LogAssetRegistry: FAssetRegistry took 0.0527 seconds to start up
+[2018.12.19-15.10.53:388][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.19-15.11.05:389][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.19-15.11.06:875][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.19-15.11.06:895][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.19-15.11.06:999][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.19-15.11.06:999][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.19-15.11.09:420][  0]LogNetVersion: CabinInDaHoodz 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2855039875)
+[2018.12.19-15.11.11:379][  0]LogNavigation: Error: [/Script/Engine.NavigationSystem] found in the DefaultEngine.ini file. This class has been moved. Please rename that section to [/Script/NavigationSystem.NavigationSystemV1]
+[2018.12.19-15.11.23:697][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.122499 seconds
+[2018.12.19-15.11.23:752][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.19-15.11.23:752][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.19-15.11.23:752][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.19-15.12.38:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.19-15.12.38:298][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.19-15.12.46:599][  0]SourceControl: Source control is disabled
+[2018.12.19-15.12.46:622][  0]SourceControl: Source control is disabled
+[2018.12.19-15.12.47:349][  0]SourceControl: Source control is disabled
+[2018.12.19-15.12.47:710][  0]SourceControl: Source control is disabled
+[2018.12.19-15.12.54:309][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.19-15.12.54:638][  0]LogOcInput: OculusInput pre-init called
+[2018.12.19-15.12.55:652][  0]LogEngine: Initializing Engine...
+[2018.12.19-15.12.55:705][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.12.19-15.12.55:713][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.005 s
+[2018.12.19-15.12.55:713][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.19-15.12.55:713][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.19-15.12.55:713][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.19-15.12.56:202][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.19-15.12.56:639][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.19-15.12.56:810][  0]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.12.56:842][  0]LogInit: FAudioDevice initialized.
+[2018.12.19-15.12.56:842][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.19-15.12.56:913][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/Admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.19-15.12.56:918][  0]LogInit: Texture streaming: Enabled
+[2018.12.19-15.12.57:058][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.19-15.12.57:210][  0]LogInit: Transaction tracking system initialized
+[2018.12.19-15.12.57:622][  0]BlueprintLog: New page: Editor Load
+[2018.12.19-15.12.58:753][  0]LocalizationService: Localization service is disabled
+[2018.12.19-15.13.02:635][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/CabinInDaHoodz/Content/' took 0.02s
+[2018.12.19-15.13.02:635][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.19-15.13.02:635][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.19-15.13.02:635][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.19-15.13.02:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.19-15.13.02:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.19-15.13.02:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.19-15.13.02:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.19-15.13.12:103][  0]SourceControl: Source control is disabled
+[2018.12.19-15.13.12:376][  0]LogSlate: Took 0.019961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.19-15.13.31:401][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.12.19-15.13.31:401][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.19-15.13.31:405][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.19-15.13.31:502][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/MenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-15.13.31:504][  0]LightingResults: New page: Lighting Build
+[2018.12.19-15.13.31:671][  0]MapCheck: New page: Map Check
+[2018.12.19-15.13.31:671][  0]LightingResults: New page: Lighting Build
+[2018.12.19-15.13.32:639][  0]LogAIModule: Creating AISystem for world MenuLevel
+[2018.12.19-15.13.32:763][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-15.13.32:899][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-15.13.32:900][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,207ms to complete.
+[2018.12.19-15.13.32:900][  0]LogFileHelpers: Loading map 'MenuLevel' took 1.462
+[2018.12.19-15.13.34:449][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.13.34:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.13.34:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.13.34:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.13.34:607][  0]LogCollectionManager: Loaded 0 collections in 0.003294 seconds
+[2018.12.19-15.13.34:727][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/CabinInDaHoodz/Saved/Collections/' took 0.01s
+[2018.12.19-15.13.34:727][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/CabinInDaHoodz/Content/Developers/Admin/Collections/' took 0.01s
+[2018.12.19-15.13.34:727][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/CabinInDaHoodz/Content/Collections/' took 0.00s
+[2018.12.19-15.13.34:727][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.19-15.13.34:780][  0]LogContentBrowser: Native class hierarchy populated in 0.0513 seconds. Added 2651 classes and 620 folders.
+[2018.12.19-15.13.34:895][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.12.19-15.13.35:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:302][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:316][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:331][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:349][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:470][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:609][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.35:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.19-15.13.36:601][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.12.19-15.13.36:670][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.12.19-15.13.37:641][  0]LogSlate: Took 0.030298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.19-15.13.37:747][  0]LogSlate: Took 0.019250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.19-15.13.38:299][  0]LogRenderer: Reallocating scene render targets to support 1228x708 Format 26 NumSamples 1 (Frame:1).
+[2018.12.19-15.13.38:834][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.12.19-15.13.38:834][  0]LogLoad: (Engine Initialization) Total time: 223.42 seconds
+[2018.12.19-15.13.38:835][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.19-15.13.39:141][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.19-15.13.39:471][  0]LogSlate: Took 0.016181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.19-15.13.39:567][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Unreal Projects/CabinInDaHoodz/Content/' took 0.67s
+[2018.12.19-15.13.39:665][  2]LogAssetRegistry: Asset discovery search completed in 175.9039 seconds
+[2018.12.19-15.13.39:667][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.19-15.13.39:667][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.12.19-15.13.42:408][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.13.42:543][324]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.19-15.13.43:031][324]LogAIModule: Creating AISystem for world GameLevel
+[2018.12.19-15.13.43:103][324]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/GameLevel.GameLevel
+[2018.12.19-15.13.43:195][324]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-15.13.43:195][324]LightingResults: New page: Lighting Build
+[2018.12.19-15.13.43:196][324]LoadErrors: New page: Loading map: GameLevel.umap
+[2018.12.19-15.13.43:197][324]MapCheck: New page: Map Check
+[2018.12.19-15.13.43:197][324]LightingResults: New page: Lighting Build
+[2018.12.19-15.13.43:479][324]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-15.13.43:544][324]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-15.13.43:544][324]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,14ms to complete.
+[2018.12.19-15.13.43:544][324]LogFileHelpers: Loading map 'GameLevel' took 0.362
+[2018.12.19-15.13.55:265][684]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_NonVRPlayer.BP_NonVRPlayer
+[2018.12.19-15.13.56:307][684]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 117 classes and 0 folders.
+[2018.12.19-15.14.12:654][838]LogSlate: Window 'BP_NonVRPlayer' being destroyed
+[2018.12.19-15.14.12:887][838]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_NonVRPlayer.BP_NonVRPlayer
+[2018.12.19-15.14.13:606][838]LogSlate: Took 0.025467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.19-15.14.23:230][461]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.12.19-15.14.33:292][652]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_VRPlayer.BP_VRPlayer
+[2018.12.19-15.14.33:947][653]LogRenderer: Reallocating scene render targets to support 1448x744 Format 26 NumSamples 1 (Frame:1).
+[2018.12.19-15.14.38:607][ 63]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode
+[2018.12.19-15.14.39:498][ 64]LogSlate: Took 0.022851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.19-15.14.42:321][215]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.19-15.14.50:153][644]BlueprintLog: New page: Compile BP_GameMode
+[2018.12.19-15.14.51:463][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.12.19-15.14.51:559][691]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_GameMode3EF1F3FE40216611AA9A48965F607659.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset'
+[2018.12.19-15.23.42:484][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/GameLevel' took 0.037
+[2018.12.19-15.23.42:485][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_VRPlayer] ([1] browsable assets)...
+[2018.12.19-15.23.42:485][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_VRPlayer]
+[2018.12.19-15.23.42:486][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Saved/Autosaves/Game/Blueprints/BP_VRPlayer_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.12.19-15.23.42:505][  5]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_VRPlayer_Auto1E78FA13B4F440DC738ACFE87A46F25C9.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Saved/Autosaves/Game/Blueprints/BP_VRPlayer_Auto1.uasset'
+[2018.12.19-15.23.42:506][  5]LogFileHelpers: Auto-saving content packages took 0.021
+[2018.12.19-15.40.02:985][161]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CodeTestLevel.CodeTestLevel
+[2018.12.19-15.40.09:721][161]LogSlate: Window 'Save Content' being destroyed
+[2018.12.19-15.40.09:731][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset" SILENT=true
+[2018.12.19-15.40.09:754][161]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_VRPlayer8E5506544DC8362C584F7C900FCE5665.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset'
+[2018.12.19-15.40.09:774][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/CodeTestLevel" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-15.40.09:844][161]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/CodeTestLevelCCA93D3749C17E657943CEABC6C73DD9.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap'
+[2018.12.19-15.40.09:858][161]LogFileHelpers: Saving map 'CodeTestLevel' took 0.086
+[2018.12.19-15.40.09:860][161]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-15.40.09:861][161]LightingResults: New page: Lighting Build
+[2018.12.19-15.40.09:862][161]LoadErrors: New page: Loading map: CodeTestLevel.umap
+[2018.12.19-15.40.09:875][161]MapCheck: New page: Map Check
+[2018.12.19-15.40.09:876][161]LightingResults: New page: Lighting Build
+[2018.12.19-15.40.10:045][161]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-15.40.10:045][161]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.40.10:122][161]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-15.40.10:122][161]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2018.12.19-15.40.10:124][161]LogFileHelpers: Loading map 'CodeTestLevel' took 0.265
+[2018.12.19-15.40.45:847][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.40.49:026][308]LogActorFactory: Actor Factory created Plane
+[2018.12.19-15.40.49:410][340]LogActorFactory: Actor Factory created Plane
+[2018.12.19-15.40.51:385][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.41.52:501][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.42.15:617][641]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.42.15:684][641]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.42.15:759][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.42.17:575][796]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.42.17:578][796]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel
+[2018.12.19-15.42.22:737][ 96]LogEditorViewport: Clicking Background
+[2018.12.19-15.42.22:956][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.42.22:967][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/CodeTestLevel" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-15.42.23:272][112]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/CodeTestLevelD385E5A145617D9511AB9EBB07286586.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap'
+[2018.12.19-15.42.27:144][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.42.27:329][579]LogAIModule: Creating AISystem for world GameLevel
+[2018.12.19-15.42.27:332][579]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/GameLevel.GameLevel
+[2018.12.19-15.42.27:376][579]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-15.42.27:376][579]LightingResults: New page: Lighting Build
+[2018.12.19-15.42.27:377][579]LoadErrors: New page: Loading map: GameLevel.umap
+[2018.12.19-15.42.27:482][579]MapCheck: New page: Map Check
+[2018.12.19-15.42.27:483][579]LightingResults: New page: Lighting Build
+[2018.12.19-15.42.27:635][579]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-15.42.27:712][579]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-15.42.27:712][579]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,269ms to complete.
+[2018.12.19-15.42.27:713][579]LogFileHelpers: Loading map 'GameLevel' took 0.337
+[2018.12.19-15.42.32:245][ 71]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.42.32:245][ 71]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.42.32:316][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.42.35:274][343]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.42.35:274][343]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.42.35:710][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.42.35:714][374]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel
+[2018.12.19-15.42.45:114][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.42.45:293][102]LogAIModule: Creating AISystem for world MenuLevel
+[2018.12.19-15.42.45:295][102]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MenuLevel.MenuLevel
+[2018.12.19-15.42.45:342][102]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/MenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-15.42.45:342][102]LightingResults: New page: Lighting Build
+[2018.12.19-15.42.45:343][102]LoadErrors: New page: Loading map: MenuLevel.umap
+[2018.12.19-15.42.45:344][102]MapCheck: New page: Map Check
+[2018.12.19-15.42.45:344][102]LightingResults: New page: Lighting Build
+[2018.12.19-15.42.45:478][102]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-15.42.45:560][102]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-15.42.45:560][102]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,156ms to complete.
+[2018.12.19-15.42.45:560][102]LogFileHelpers: Loading map 'MenuLevel' took 0.219
+[2018.12.19-15.42.50:657][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.42.54:927][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.42.55:376][  0]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.42.55:379][  0]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CodeTestLevel.CodeTestLevel
+[2018.12.19-15.42.55:420][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-15.42.55:420][  0]LightingResults: New page: Lighting Build
+[2018.12.19-15.42.55:421][  0]LoadErrors: New page: Loading map: CodeTestLevel.umap
+[2018.12.19-15.42.55:421][  0]MapCheck: New page: Map Check
+[2018.12.19-15.42.55:422][  0]LightingResults: New page: Lighting Build
+[2018.12.19-15.42.55:552][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-15.42.55:633][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-15.42.55:633][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,146ms to complete.
+[2018.12.19-15.42.55:633][  0]LogFileHelpers: Loading map 'CodeTestLevel' took 0.215
+[2018.12.19-15.42.59:549][411]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.42.59:550][411]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.42.59:562][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.43.00:723][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.43.00:726][505]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel
+[2018.12.19-15.44.33:148][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.44.33:294][847]LogAIModule: Creating AISystem for world GameLevel
+[2018.12.19-15.44.33:297][847]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/GameLevel.GameLevel
+[2018.12.19-15.44.33:338][847]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-15.44.33:339][847]LightingResults: New page: Lighting Build
+[2018.12.19-15.44.33:340][847]LoadErrors: New page: Loading map: GameLevel.umap
+[2018.12.19-15.44.33:400][847]MapCheck: New page: Map Check
+[2018.12.19-15.44.33:400][847]LightingResults: New page: Lighting Build
+[2018.12.19-15.44.33:544][847]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-15.44.33:616][847]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-15.44.33:616][847]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,133ms to complete.
+[2018.12.19-15.44.33:616][847]LogFileHelpers: Loading map 'GameLevel' took 0.279
+[2018.12.19-15.44.38:088][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.44.41:347][699]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.44.41:347][699]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.12.19-15.44.42:278][791]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel
+[2018.12.19-15.45.02:658][462]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.45.02:661][462]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CodeTestLevel.CodeTestLevel
+[2018.12.19-15.45.02:701][462]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.19-15.45.02:701][462]LightingResults: New page: Lighting Build
+[2018.12.19-15.45.02:702][462]LoadErrors: New page: Loading map: CodeTestLevel.umap
+[2018.12.19-15.45.02:760][462]MapCheck: New page: Map Check
+[2018.12.19-15.45.02:760][462]LightingResults: New page: Lighting Build
+[2018.12.19-15.45.02:901][462]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.19-15.45.02:976][462]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.19-15.45.02:976][462]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,134ms to complete.
+[2018.12.19-15.45.02:976][462]LogFileHelpers: Loading map 'CodeTestLevel' took 0.277
+[2018.12.19-15.45.14:122][725]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.19-15.45.31:730][633]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.45.31:804][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.45.31:879][633]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.19-15.45.31:892][633]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2018.12.19-15.45.32:202][633]LogPlayLevel: PlayLevel: Blueprint regeneration took 322 ms (1 blueprints)
+[2018.12.19-15.45.32:284][633]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:45:32)
+[2018.12.19-15.45.32:393][633]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.45.32:423][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030011s)
+[2018.12.19-15.45.32:424][633]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.45.32:437][633]LogPlayLevel: PIE: World Init took: (0.013252s)
+[2018.12.19-15.45.32:437][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.043827s)
+[2018.12.19-15.45.32:572][633]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.45.32:583][633]LogInit: FAudioDevice initialized.
+[2018.12.19-15.45.32:634][633]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.45.32:787][633]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.45.32
+[2018.12.19-15.45.32:824][633]LogWorld: Bringing up level for play took: 0.038099
+[2018.12.19-15.45.33:091][633]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2018.12.19-15.45.33:223][633]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.45.33:261][633]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.45.33:280][633]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 1,673
+[2018.12.19-15.45.33:281][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.45.38:871][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.45.38:894][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.45.38:965][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.45.38:984][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.45.39:059][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.45.39:151][179]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.19-15.45.42:578][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.45.42:662][529]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.45.42:692][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.45.42:692][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.45.42:693][529]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:45:42)
+[2018.12.19-15.45.42:693][529]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.45.42:695][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002111s)
+[2018.12.19-15.45.42:695][529]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.45.42:696][529]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2018.12.19-15.45.42:696][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003116s)
+[2018.12.19-15.45.42:765][529]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.45.42:772][529]LogInit: FAudioDevice initialized.
+[2018.12.19-15.45.42:803][529]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.45.42:804][529]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.45.42
+[2018.12.19-15.45.42:804][529]LogWorld: Bringing up level for play took: 0.000682
+[2018.12.19-15.45.42:818][529]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.45.42:819][529]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.45.42:819][529]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel −0,788
+[2018.12.19-15.45.42:820][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.46.20:015][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.46.20:016][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.46.20:052][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.46.20:053][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.46.20:093][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.46.20:119][186]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.19-15.46.24:842][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.46.31:891][506]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.19-15.46.57:188][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.47.08:697][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.47.23:512][204]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-15.47.24:870][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NonVRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset" SILENT=true
+[2018.12.19-15.47.24:941][257]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_NonVRPlayer07A83BD440FC1A4E1BCD33B56AC45298.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset'
+[2018.12.19-15.47.35:457][806]BlueprintLog: New page: Compile BP_VRPlayer
+[2018.12.19-15.47.36:721][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset" SILENT=true
+[2018.12.19-15.47.36:764][853]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_VRPlayer47B3DF1C4CFBA8DB23EB168298186D67.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset'
+[2018.12.19-15.47.40:638][167]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.47.40:670][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.47.40:670][167]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.19-15.47.40:677][167]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2018.12.19-15.47.40:941][167]LogPlayLevel: PlayLevel: Blueprint regeneration took 271 ms (1 blueprints)
+[2018.12.19-15.47.40:941][167]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:47:40)
+[2018.12.19-15.47.40:941][167]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.47.40:944][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002305s)
+[2018.12.19-15.47.40:944][167]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.47.40:944][167]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.12.19-15.47.40:944][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003256s)
+[2018.12.19-15.47.41:010][167]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.47.41:017][167]LogInit: FAudioDevice initialized.
+[2018.12.19-15.47.41:054][167]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.47.41:056][167]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.47.41
+[2018.12.19-15.47.41:057][167]LogWorld: Bringing up level for play took: 0.000994
+[2018.12.19-15.47.41:096][167]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.47.41:097][167]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.47.41:097][167]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel −0,507
+[2018.12.19-15.47.41:098][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.47.52:112][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.48.09:918][ 66]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.48.09:919][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.48.09:957][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.48.09:957][ 66]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.48.10:002][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.48.10:022][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.19-15.50.10:856][116]BlueprintLog: New page: Compile BP_GameMode
+[2018.12.19-15.50.44:107][902]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.50.44:139][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.50.44:139][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.50.44:139][902]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:50:44)
+[2018.12.19-15.50.44:139][902]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.50.44:142][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002251s)
+[2018.12.19-15.50.44:142][902]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.50.44:143][902]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.12.19-15.50.44:143][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003313s)
+[2018.12.19-15.50.44:215][902]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.50.44:222][902]LogInit: FAudioDevice initialized.
+[2018.12.19-15.50.44:258][902]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.50.44:259][902]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.50.44
+[2018.12.19-15.50.44:259][902]LogWorld: Bringing up level for play took: 0.000662
+[2018.12.19-15.50.44:273][902]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.50.44:274][902]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.50.44:274][902]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 0,676
+[2018.12.19-15.50.44:275][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.50.48:122][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.50.48:122][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.50.48:158][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.50.48:159][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.50.48:197][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.50.48:225][309]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.19-15.50.54:324][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.50.54:382][961]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.50.54:414][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.50.54:414][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.50.54:414][961]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:50:54)
+[2018.12.19-15.50.54:415][961]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.50.54:417][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002171s)
+[2018.12.19-15.50.54:417][961]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.50.54:418][961]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2018.12.19-15.50.54:418][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003107s)
+[2018.12.19-15.50.54:483][961]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.50.54:490][961]LogInit: FAudioDevice initialized.
+[2018.12.19-15.50.54:522][961]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.50.54:523][961]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.50.54
+[2018.12.19-15.50.54:523][961]LogWorld: Bringing up level for play took: 0.000718
+[2018.12.19-15.50.54:537][961]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.50.54:554][961]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.50.54:554][961]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 0,955
+[2018.12.19-15.50.54:555][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.51.00:231][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.51.00:231][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.51.00:279][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.51.00:279][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.51.00:320][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.51.00:347][627]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.19-15.51.03:249][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.51.03:315][963]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.51.03:346][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.51.03:346][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.51.03:346][963]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:51:03)
+[2018.12.19-15.51.03:347][963]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.51.03:349][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002225s)
+[2018.12.19-15.51.03:350][963]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.51.03:350][963]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.12.19-15.51.03:350][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003311s)
+[2018.12.19-15.51.03:417][963]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.51.03:424][963]LogInit: FAudioDevice initialized.
+[2018.12.19-15.51.03:459][963]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.51.03:460][963]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.51.03
+[2018.12.19-15.51.03:460][963]LogWorld: Bringing up level for play took: 0.000664
+[2018.12.19-15.51.03:490][963]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.51.03:491][963]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.51.03:491][963]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel −0,107
+[2018.12.19-15.51.03:491][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.51.28:823][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.51.28:824][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.51.28:861][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.51.28:862][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.51.28:899][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.51.28:926][501]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.19-15.52.28:553][727]BlueprintLog: New page: Compile BP_VRPlayer
+[2018.12.19-15.52.29:370][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset" SILENT=true
+[2018.12.19-15.52.29:411][754]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_VRPlayerF970D6B74157DFA191F1BCA93F6A7EE2.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset'
+[2018.12.19-15.52.36:204][170]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-15.52.38:564][345]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.52.38:596][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.52.38:596][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.52.38:596][345]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:52:38)
+[2018.12.19-15.52.38:596][345]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.52.38:599][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002506s)
+[2018.12.19-15.52.38:600][345]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.52.38:600][345]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2018.12.19-15.52.38:600][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003664s)
+[2018.12.19-15.52.38:671][345]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.52.38:679][345]LogInit: FAudioDevice initialized.
+[2018.12.19-15.52.38:715][345]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.52.38:716][345]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.52.38
+[2018.12.19-15.52.38:717][345]LogWorld: Bringing up level for play took: 0.000988
+[2018.12.19-15.52.38:731][345]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.52.38:732][345]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.52.38:732][345]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 1,137
+[2018.12.19-15.52.38:733][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.52.51:508][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.52.51:534][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.52.51:567][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.52.51:568][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.52.51:608][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.52.51:628][611]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.19-15.53.24:147][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.53.24:239][927]BlueprintLog: New page: Compile BP_VRPlayer
+[2018.12.19-15.53.30:379][293]BlueprintLog: New page: Compile BP_VRPlayer
+[2018.12.19-15.53.31:223][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset" SILENT=true
+[2018.12.19-15.53.31:267][322]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_VRPlayerE9BBC9CC49B093D5AA8383B8CC262928.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset'
+[2018.12.19-15.53.49:689][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-15.53.49:757][491]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-15.53.50:688][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NonVRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset" SILENT=true
+[2018.12.19-15.53.50:729][524]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_NonVRPlayer3037EEE84A2551730E135D89CCC2FF58.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset'
+[2018.12.19-15.53.56:030][820]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.53.56:064][820]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.53.56:064][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.53.56:064][820]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:53:56)
+[2018.12.19-15.53.56:064][820]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.53.56:069][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004072s)
+[2018.12.19-15.53.56:070][820]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.53.56:070][820]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2018.12.19-15.53.56:070][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.005917s)
+[2018.12.19-15.53.56:146][820]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.53.56:156][820]LogInit: FAudioDevice initialized.
+[2018.12.19-15.53.56:191][820]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.53.56:192][820]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.53.56
+[2018.12.19-15.53.56:193][820]LogWorld: Bringing up level for play took: 0.000698
+[2018.12.19-15.53.56:207][820]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.53.56:208][820]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.53.56:208][820]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 0,614
+[2018.12.19-15.53.56:208][820]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.54.12:676][397]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.54.12:677][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.54.12:717][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.54.12:717][397]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.54.12:755][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.54.12:775][398]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.19-15.54.19:121][ 69]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.19-15.54.29:101][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.12.19-15.54.29:827][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-15.54.56:737][103]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.54.56:769][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.54.56:769][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.54.56:769][103]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:54:56)
+[2018.12.19-15.54.56:769][103]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.54.56:772][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002323s)
+[2018.12.19-15.54.56:772][103]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.54.56:773][103]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2018.12.19-15.54.56:773][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003385s)
+[2018.12.19-15.54.56:838][103]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.54.56:845][103]LogInit: FAudioDevice initialized.
+[2018.12.19-15.54.56:880][103]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.54.56:881][103]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.54.56
+[2018.12.19-15.54.56:882][103]LogWorld: Bringing up level for play took: 0.000665
+[2018.12.19-15.54.56:896][103]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.54.56:897][103]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.54.56:897][103]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel −0,695
+[2018.12.19-15.54.56:898][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.55.28:103][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.55.28:103][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.55.28:140][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.55.28:141][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.55.28:180][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.55.28:213][329]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.19-15.55.56:107][148]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.55.56:152][148]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.55.56:152][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.55.56:152][148]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:55:56)
+[2018.12.19-15.55.56:153][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.55.56:156][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002883s)
+[2018.12.19-15.55.56:156][148]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.55.56:157][148]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2018.12.19-15.55.56:157][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.004307s)
+[2018.12.19-15.55.56:222][148]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.55.56:229][148]LogInit: FAudioDevice initialized.
+[2018.12.19-15.55.56:260][148]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.55.56:262][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.55.56
+[2018.12.19-15.55.56:262][148]LogWorld: Bringing up level for play took: 0.001006
+[2018.12.19-15.55.56:277][148]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.55.56:279][148]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.55.56:279][148]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 0,689
+[2018.12.19-15.55.56:279][148]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.56.14:894][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.56.14:894][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.56.14:934][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.56.14:934][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.56.14:978][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.56.14:999][434]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.19-15.58.17:669][953]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2018.12.19-15.58.17:677][953]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/BP_VRPlayer.BP_VRPlayer from Character to PlayerController...
+[2018.12.19-15.58.17:685][953]BlueprintLog: New page: Compile BP_VRPlayer
+[2018.12.19-15.58.17:711][953]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'Sphere' in BlueprintGeneratedClass 'BP_VRPlayer_C' (it may have been removed)
+[2018.12.19-15.58.17:711][953]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'Camera' in BlueprintGeneratedClass 'BP_VRPlayer_C' (it may have been removed)
+[2018.12.19-15.58.20:919][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset" SILENT=true
+[2018.12.19-15.58.20:954][139]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_VRPlayer1BE20C24462FA5F191693F95DEC580E3.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset'
+[2018.12.19-15.58.26:866][454]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.19-15.58.44:649][527]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2018.12.19-15.58.44:655][527]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/BP_NonVRPlayer.BP_NonVRPlayer from Character to PlayerController...
+[2018.12.19-15.58.44:664][527]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-15.58.44:673][527]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'Cube' in BlueprintGeneratedClass 'BP_NonVRPlayer_C' (it may have been removed)
+[2018.12.19-15.58.44:673][527]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'Camera' in BlueprintGeneratedClass 'BP_NonVRPlayer_C' (it may have been removed)
+[2018.12.19-15.58.46:047][595]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-15.58.46:533][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NonVRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset" SILENT=true
+[2018.12.19-15.58.46:565][607]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_NonVRPlayerA3DACD8149F2DA8F4BC5F293ED25053B.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset'
+[2018.12.19-15.58.54:465][180]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.19-15.59.09:531][966]BlueprintLog: New page: Compile BP_GameMode
+[2018.12.19-15.59.10:208][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.12.19-15.59.10:256][984]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_GameMode1DF57D444B9997DE5B50249BFED94CB5.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset'
+[2018.12.19-15.59.11:989][106]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-15.59.12:021][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.59.12:021][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-15.59.12:021][106]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 17:59:12)
+[2018.12.19-15.59.12:021][106]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-15.59.12:023][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002222s)
+[2018.12.19-15.59.12:024][106]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-15.59.12:024][106]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2018.12.19-15.59.12:024][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003396s)
+[2018.12.19-15.59.12:090][106]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-15.59.12:097][106]LogInit: FAudioDevice initialized.
+[2018.12.19-15.59.12:132][106]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-15.59.12:134][106]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-16.59.12
+[2018.12.19-15.59.12:135][106]LogWorld: Bringing up level for play took: 0.001006
+[2018.12.19-15.59.12:158][106]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-15.59.12:170][106]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_VRPlayer_C]
+[2018.12.19-15.59.12:171][106]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-15.59.12:171][106]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 0,586
+[2018.12.19-15.59.12:171][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.59.28:794][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.59.28:829][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.59.28:863][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-15.59.28:863][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-15.59.28:910][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-15.59.28:941][819]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.19-15.59.55:165][ 30]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/CodeTestLevel_Auto28E3F0E85491121BF69B7439D5E829E50.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Saved/Autosaves/Game/Levels/CodeTestLevel_Auto2.umap'
+[2018.12.19-15.59.55:168][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/CodeTestLevel' took 0.284
+[2018.12.19-15.59.55:168][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2018.12.19-15.59.57:709][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-16.00.13:902][836]LogSlate: Took 0.016127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.19-16.00.33:428][800]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.12.19-16.00.38:295][ 45]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.19-16.00.38:302][ 45]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.19-16.01.11:488][747]BlueprintLog: New page: Compile BP_GameMode
+[2018.12.19-16.01.14:927][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.12.19-16.01.14:980][926]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_GameModeB31418784E34290A7ABEF4B871B0F621.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset'
+[2018.12.19-16.01.56:733][ 72]BlueprintLog: New page: Compile BP_GameMode
+[2018.12.19-16.01.57:504][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.12.19-16.01.57:541][ 93]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_GameMode9037FDDC43A573A5E7706EA4FF25CBDC.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset'
+[2018.12.19-16.02.08:683][759]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-16.02.08:715][759]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.08:716][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-16.02.08:716][759]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 18:02:08)
+[2018.12.19-16.02.08:716][759]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-16.02.08:718][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002245s)
+[2018.12.19-16.02.08:719][759]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-16.02.08:719][759]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2018.12.19-16.02.08:719][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003226s)
+[2018.12.19-16.02.08:787][759]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-16.02.08:795][759]LogInit: FAudioDevice initialized.
+[2018.12.19-16.02.08:830][759]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-16.02.08:831][759]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-17.02.08
+[2018.12.19-16.02.08:831][759]LogWorld: Bringing up level for play took: 0.000684
+[2018.12.19-16.02.08:845][759]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-16.02.08:845][759]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_VRPlayer_C]
+[2018.12.19-16.02.08:846][759]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-16.02.08:846][759]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel −0,735
+[2018.12.19-16.02.08:846][759]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.11:675][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.11:675][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.02.11:716][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-16.02.11:716][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.11:755][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.02.11:782][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.12.19-16.02.12:232][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-16.02.12:267][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.12:267][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-16.02.12:267][ 87]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 18:02:12)
+[2018.12.19-16.02.12:267][ 87]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-16.02.12:269][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002219s)
+[2018.12.19-16.02.12:270][ 87]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-16.02.12:270][ 87]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.12.19-16.02.12:270][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003164s)
+[2018.12.19-16.02.12:338][ 87]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-16.02.12:345][ 87]LogInit: FAudioDevice initialized.
+[2018.12.19-16.02.12:375][ 87]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-16.02.12:376][ 87]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-17.02.12
+[2018.12.19-16.02.12:376][ 87]LogWorld: Bringing up level for play took: 0.000767
+[2018.12.19-16.02.12:390][ 87]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-16.02.12:390][ 87]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_VRPlayer_C]
+[2018.12.19-16.02.12:390][ 87]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-16.02.12:391][ 87]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 0,81
+[2018.12.19-16.02.12:391][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.16:738][531]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.16:738][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.02.16:778][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-16.02.16:779][531]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.16:820][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.02.16:844][532]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.19-16.02.24:229][968]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-16.02.24:261][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.24:261][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-16.02.24:261][968]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 18:02:24)
+[2018.12.19-16.02.24:261][968]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-16.02.24:264][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002589s)
+[2018.12.19-16.02.24:265][968]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-16.02.24:265][968]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.12.19-16.02.24:265][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003602s)
+[2018.12.19-16.02.24:327][968]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-16.02.24:334][968]LogInit: FAudioDevice initialized.
+[2018.12.19-16.02.24:366][968]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-16.02.24:368][968]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-17.02.24
+[2018.12.19-16.02.24:369][968]LogWorld: Bringing up level for play took: 0.000963
+[2018.12.19-16.02.24:384][968]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-16.02.24:384][968]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_VRPlayer_C]
+[2018.12.19-16.02.24:385][968]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-16.02.24:385][968]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 0,805
+[2018.12.19-16.02.24:385][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.32:048][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.32:049][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.02.32:091][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-16.02.32:091][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.02.32:133][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.02.32:167][714]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.19-16.07.36:757][923]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.19-16.10.58:235][935]BlueprintLog: New page: Compile BP_GameMode
+[2018.12.19-16.11.16:507][969]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.19-16.11.53:920][232]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/CodeTestLevel' took 0.036
+[2018.12.19-16.11.53:923][232]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([1] browsable assets)...
+[2018.12.19-16.11.53:923][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2018.12.19-16.11.53:923][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.12.19-16.11.53:966][232]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_GameMode_Auto3FEB5FDF84B922A90C087629EDB6B13A6.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto3.uasset'
+[2018.12.19-16.11.53:967][232]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.12.19-16.13.40:369][207]BlueprintLog: New page: Compile BP_VRPlayer
+[2018.12.19-16.13.41:478][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset" SILENT=true
+[2018.12.19-16.13.41:541][259]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_VRPlayer0BF379B941CFEC2DE6017693783FBE13.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset'
+[2018.12.19-16.14.00:477][438]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-16.14.01:047][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NonVRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset" SILENT=true
+[2018.12.19-16.14.01:089][454]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_NonVRPlayer540271FC4631148B40A3118CEFA75534.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset'
+[2018.12.19-16.14.01:705][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.12.19-16.14.02:208][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-16.14.02:251][511]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-16.14.02:284][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.14.02:284][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-16.14.02:284][511]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 18:14:02)
+[2018.12.19-16.14.02:284][511]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-16.14.02:287][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002354s)
+[2018.12.19-16.14.02:287][511]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-16.14.02:288][511]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2018.12.19-16.14.02:288][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003616s)
+[2018.12.19-16.14.02:355][511]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-16.14.02:362][511]LogInit: FAudioDevice initialized.
+[2018.12.19-16.14.02:394][511]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-16.14.02:395][511]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-17.14.02
+[2018.12.19-16.14.02:395][511]LogWorld: Bringing up level for play took: 0.000708
+[2018.12.19-16.14.02:425][511]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.19-16.14.02:426][511]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-16.14.02:427][511]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_VRPlayer_C]
+[2018.12.19-16.14.02:428][511]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-16.14.02:432][511]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel 0,87
+[2018.12.19-16.14.02:433][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.14.04:965][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.14.04:965][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.14.05:000][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-16.14.05:001][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.14.05:039][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.14.05:067][679]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.19-16.14.08:509][891]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-16.14.09:082][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NonVRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset" SILENT=true
+[2018.12.19-16.14.09:119][906]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_NonVRPlayerEF97358043AFD42088BB0EBA97BAC885.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset'
+[2018.12.19-16.14.13:359][146]BlueprintLog: New page: Compile BP_VRPlayer
+[2018.12.19-16.14.14:043][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset" SILENT=true
+[2018.12.19-16.14.14:082][172]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_VRPlayerC256C38745B2326C71B6B79BFEC8A1CA.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_VRPlayer.uasset'
+[2018.12.19-16.17.32:551][654]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APlayerController::SetViewTargetWithBlend' [Det gick inte att hitta elementet.]
+[2018.12.19-16.20.02:787][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.19-16.20.08:420][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/CodeTestLevel" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-16.20.08:715][421]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/CodeTestLevel1A318F41460AF1F2F6BB9193B12A2F61.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap'
+[2018.12.19-16.20.24:736][416]LogEditorActor: Deleted Actor: CameraActor
+[2018.12.19-16.20.24:787][416]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2018.12.19-16.22.14:758][  2]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-16.22.15:608][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NonVRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset" SILENT=true
+[2018.12.19-16.22.15:655][ 36]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_NonVRPlayerD6BFF2454DA2599D1FDC9687A731F571.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset'
+[2018.12.19-16.22.16:662][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-16.22.16:694][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.22.16:694][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-16.22.16:694][ 93]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 18:22:16)
+[2018.12.19-16.22.16:695][ 93]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-16.22.16:697][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002503s)
+[2018.12.19-16.22.16:698][ 93]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-16.22.16:698][ 93]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2018.12.19-16.22.16:699][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003988s)
+[2018.12.19-16.22.16:764][ 93]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-16.22.16:772][ 93]LogInit: FAudioDevice initialized.
+[2018.12.19-16.22.16:802][ 93]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-16.22.16:803][ 93]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-17.22.16
+[2018.12.19-16.22.16:804][ 93]LogWorld: Bringing up level for play took: 0.000701
+[2018.12.19-16.22.16:817][ 93]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.19-16.22.16:818][ 93]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-16.22.16:818][ 93]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_VRPlayer_C]
+[2018.12.19-16.22.16:818][ 93]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-16.22.16:830][ 93]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel −0,727
+[2018.12.19-16.22.16:830][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.22.20:085][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.22.20:085][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.22.20:123][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-16.22.20:124][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.22.20:160][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.22.20:189][314]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.19-16.23.17:577][562]BlueprintLog: New page: Compile BP_NonVRPlayer
+[2018.12.19-16.23.18:525][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NonVRPlayer" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset" SILENT=true
+[2018.12.19-16.23.18:563][586]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_NonVRPlayerD951197E4107B42AD54D319D66AD5D4A.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_NonVRPlayer.uasset'
+[2018.12.19-16.23.22:580][934]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.19-16.23.22:614][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.23.22:614][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.19-16.23.22:614][934]PIE: New page: PIE session: CodeTestLevel (19 dec 2018 18:23:22)
+[2018.12.19-16.23.22:615][934]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CodeTestLevel
+[2018.12.19-16.23.22:617][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002254s)
+[2018.12.19-16.23.22:617][934]LogAIModule: Creating AISystem for world CodeTestLevel
+[2018.12.19-16.23.22:618][934]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.12.19-16.23.22:618][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CodeTestLevel.CodeTestLevel to /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel (0.003207s)
+[2018.12.19-16.23.22:688][934]LogInit: XAudio2 using 'Högtalare (M-Audio M-Track 2X2)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-16.23.22:695][934]LogInit: FAudioDevice initialized.
+[2018.12.19-16.23.22:729][934]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.19-16.23.22:730][934]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CodeTestLevel.CodeTestLevel up for play (max tick rate 0) at 2018.12.19-17.23.22
+[2018.12.19-16.23.22:730][934]LogWorld: Bringing up level for play took: 0.000711
+[2018.12.19-16.23.22:743][934]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.19-16.23.22:744][934]LogBlueprintUserMessages: [BP_GameMode_C_0] VR is off
+[2018.12.19-16.23.22:744][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_VRPlayer_C]
+[2018.12.19-16.23.22:745][934]LogBlueprintUserMessages: [BP_GameMode_C_0] Player Set
+[2018.12.19-16.23.22:745][934]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CodeTestLevel −0,811
+[2018.12.19-16.23.22:745][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.23.26:560][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-16.23.33:199][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.23.33:230][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.23.33:269][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.19-16.23.33:270][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel' with GeneratedClass '/Game/Levels/CodeTestLevel.CodeTestLevel_C' with ClassGeneratedBy '/Game/Levels/CodeTestLevel.CodeTestLevel:PersistentLevel.CodeTestLevel'
+[2018.12.19-16.23.33:323][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.19-16.23.33:347][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.19-16.30.23:101][287]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/CodeTestLevel_Auto4D1BC42554EBAE8B596B61FBFC54FEEC5.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Saved/Autosaves/Game/Levels/CodeTestLevel_Auto4.umap'
+[2018.12.19-16.30.23:105][287]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/CodeTestLevel' took 0.290
+[2018.12.19-16.30.23:106][287]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2018.12.19-16.30.23:108][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([1] browsable assets)...
+[2018.12.19-16.30.23:108][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2018.12.19-16.30.23:108][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.12.19-16.30.23:217][287]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_GameMode_Auto44221DE104E8AD86C454449AC9D558C2D.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto4.uasset'
+[2018.12.19-16.30.23:218][287]LogFileHelpers: Auto-saving content packages took 0.110
+[2018.12.19-17.28.01:617][589]LogInit: XAudio2 using 'Hörlurar (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-17.28.04:069][590]LogInit: XAudio2 using 'Hörlurar (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.19-17.35.32:413][508]LogEditorViewport: Clicking Background
+[2018.12.19-17.35.33:005][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.19-17.35.33:013][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/CodeTestLevel" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.19-17.35.33:465][567]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/CodeTestLevelB57740584BC8CA1BBBAAE4AD9C2119B9.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Levels/CodeTestLevel.umap'
+[2018.12.19-17.35.37:408][752]LogSlate: Window 'Save Content' being destroyed
+[2018.12.19-17.35.37:439][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.12.19-17.35.37:491][752]LogSavePackage: Moving '../../../../../Unreal Projects/CabinInDaHoodz/Saved/BP_GameMode6662FD57407F141CF43732BB28F7A933.tmp' to '../../../../../Unreal Projects/CabinInDaHoodz/Content/Blueprints/BP_GameMode.uasset'
+[2018.12.19-17.35.37:854][752]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.19-17.35.37:948][752]LogSlate: Window 'BP_GameMode' being destroyed
+[2018.12.19-17.35.37:956][752]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.19-17.35.38:050][752]LogSlate: Window 'CabinInDaHoodz - Unreal Editor' being destroyed
+[2018.12.19-17.35.38:050][752]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.19-17.35.38:599][753]Cmd: QUIT_EDITOR
+[2018.12.19-17.35.40:018][753]LogExit: Preparing to exit.
+[2018.12.19-17.35.40:900][753]LogExit: Editor shut down
+[2018.12.19-17.35.40:901][753]LogExit: Transaction tracking system shut down
+[2018.12.19-17.35.44:373][753]LogExit: Object subsystem successfully closed.
+[2018.12.19-17.35.45:592][753]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.19-17.35.45:639][753]LogD3D11RHI: Shutdown
+[2018.12.19-17.35.45:639][753]LogD3D11RHI: CleanupD3DDevice
+[2018.12.19-17.35.46:061][753]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.19-17.35.48:828][753]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2018.12.19-17.35.48:828][753]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2018.12.19-17.35.48:840][753]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2018.12.19-17.35.48:840][753]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2018.12.19-17.35.48:840][753]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2018.12.19-17.35.48:859][753]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2018.12.19-17.35.48:896][753]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2018.12.19-17.35.48:896][753]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2018.12.19-17.35.48:896][753]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2018.12.19-17.35.48:925][753]LogModuleManager: Shutting down and abandoning module StatsViewer (612)
+[2018.12.19-17.35.48:965][753]LogModuleManager: Shutting down and abandoning module FoliageEdit (610)
+[2018.12.19-17.35.48:982][753]LogModuleManager: Shutting down and abandoning module LandscapeEditor (608)
+[2018.12.19-17.35.49:018][753]LogModuleManager: Shutting down and abandoning module MeshPaintMode (606)
+[2018.12.19-17.35.49:039][753]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (604)
+[2018.12.19-17.35.49:039][753]LogModuleManager: Shutting down and abandoning module ActorPickerMode (602)
+[2018.12.19-17.35.49:039][753]LogModuleManager: Shutting down and abandoning module GeometryMode (600)
+[2018.12.19-17.35.49:039][753]LogModuleManager: Shutting down and abandoning module TextureAlignMode (598)
+[2018.12.19-17.35.49:039][753]LogModuleManager: Shutting down and abandoning module BspMode (596)
+[2018.12.19-17.35.49:040][753]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (594)
+[2018.12.19-17.35.49:143][753]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (592)
+[2018.12.19-17.35.49:162][753]LogModuleManager: Shutting down and abandoning module AutomationWorker (590)
+[2018.12.19-17.35.49:162][753]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (588)
+[2018.12.19-17.35.49:162][753]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (586)
+[2018.12.19-17.35.49:163][753]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (584)
+[2018.12.19-17.35.49:399][753]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2018.12.19-17.35.49:400][753]LogModuleManager: Shutting down and abandoning module MaterialEditor (582)
+[2018.12.19-17.35.49:518][753]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (578)
+[2018.12.19-17.35.49:519][753]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (576)
+[2018.12.19-17.35.49:519][753]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (574)
+[2018.12.19-17.35.49:519][753]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (572)
+[2018.12.19-17.35.49:519][753]LogModuleManager: Shutting down and abandoning module WebMMedia (570)
+[2018.12.19-17.35.49:540][753]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (568)
+[2018.12.19-17.35.49:678][753]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (566)
+[2018.12.19-17.35.49:803][753]LogModuleManager: Shutting down and abandoning module SequenceRecorder (565)
+[2018.12.19-17.35.49:822][753]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2018.12.19-17.35.49:823][753]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2018.12.19-17.35.49:923][753]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2018.12.19-17.35.50:015][753]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2018.12.19-17.35.50:068][753]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2018.12.19-17.35.50:201][753]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2018.12.19-17.35.50:233][753]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2018.12.19-17.35.50:233][753]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2018.12.19-17.35.50:233][753]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2018.12.19-17.35.50:233][753]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2018.12.19-17.35.50:233][753]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2018.12.19-17.35.50:525][753]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2018.12.19-17.35.50:525][753]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2018.12.19-17.35.50:525][753]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2018.12.19-17.35.50:526][753]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2018.12.19-17.35.50:526][753]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2018.12.19-17.35.50:526][753]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2018.12.19-17.35.50:533][753]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2018.12.19-17.35.50:574][753]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2018.12.19-17.35.50:607][753]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2018.12.19-17.35.50:627][753]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2018.12.19-17.35.50:627][753]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2018.12.19-17.35.50:652][753]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2018.12.19-17.35.50:693][753]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2018.12.19-17.35.50:693][753]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2018.12.19-17.35.50:693][753]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2018.12.19-17.35.50:693][753]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2018.12.19-17.35.50:693][753]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2018.12.19-17.35.50:693][753]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2018.12.19-17.35.50:824][753]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2018.12.19-17.35.50:867][753]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2018.12.19-17.35.50:910][753]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2018.12.19-17.35.50:953][753]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2018.12.19-17.35.50:991][753]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2018.12.19-17.35.51:046][753]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2018.12.19-17.35.51:129][753]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2018.12.19-17.35.51:191][753]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2018.12.19-17.35.51:388][753]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2018.12.19-17.35.51:388][753]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2018.12.19-17.35.51:409][753]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2018.12.19-17.35.51:409][753]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2018.12.19-17.35.51:476][753]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2018.12.19-17.35.51:476][753]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2018.12.19-17.35.51:476][753]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2018.12.19-17.35.51:512][753]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2018.12.19-17.35.51:512][753]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2018.12.19-17.35.51:514][753]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2018.12.19-17.35.51:514][753]LogModuleManager: Shutting down and abandoning module DesktopPlatform (441)
+[2018.12.19-17.35.51:564][753]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.19-17.35.51:584][753]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.19-17.35.51:584][753]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.19-17.35.51:585][753]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.19-17.35.51:628][753]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.19-17.35.51:628][753]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.19-17.35.51:628][753]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.19-17.35.51:645][753]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.19-17.35.51:687][753]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.19-17.35.51:687][753]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.19-17.35.51:687][753]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.19-17.35.51:687][753]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.19-17.35.51:687][753]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.19-17.35.51:687][753]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.19-17.35.51:735][753]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.19-17.35.51:735][753]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.19-17.35.51:776][753]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.19-17.35.51:776][753]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2018.12.19-17.35.51:779][753]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.12.19-17.35.52:030][753]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.12.19-17.35.52:095][753]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.12.19-17.35.52:095][753]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.12.19-17.35.52:095][753]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.12.19-17.35.52:117][753]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.12.19-17.35.52:117][753]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.12.19-17.35.52:117][753]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.12.19-17.35.52:135][753]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.12.19-17.35.52:135][753]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.12.19-17.35.52:160][753]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.12.19-17.35.52:160][753]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.12.19-17.35.52:160][753]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.12.19-17.35.52:160][753]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.12.19-17.35.52:179][753]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.12.19-17.35.52:229][753]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2018.12.19-17.35.52:229][753]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2018.12.19-17.35.52:229][753]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2018.12.19-17.35.52:233][753]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2018.12.19-17.35.52:233][753]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2018.12.19-17.35.52:233][753]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2018.12.19-17.35.52:233][753]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2018.12.19-17.35.52:251][753]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.19-17.35.52:267][753]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.12.19-17.35.52:267][753]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.12.19-17.35.52:327][753]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.12.19-17.35.52:383][753]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.12.19-17.35.52:383][753]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.12.19-17.35.52:424][753]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.12.19-17.35.52:450][753]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.12.19-17.35.52:450][753]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.12.19-17.35.52:450][753]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.12.19-17.35.52:450][753]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.12.19-17.35.52:450][753]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.12.19-17.35.52:506][753]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.12.19-17.35.52:660][753]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.12.19-17.35.52:810][753]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.12.19-17.35.52:811][753]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.12.19-17.35.52:873][753]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2018.12.19-17.35.52:873][753]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2018.12.19-17.35.52:873][753]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2018.12.19-17.35.52:873][753]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2018.12.19-17.35.52:873][753]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2018.12.19-17.35.52:873][753]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2018.12.19-17.35.52:951][753]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2018.12.19-17.35.52:990][753]LogModuleManager: Shutting down and abandoning module CabinInDaHoodz (296)
+[2018.12.19-17.35.52:990][753]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.19-17.35.52:990][753]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.19-17.35.52:990][753]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.19-17.35.52:990][753]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.19-17.35.53:019][753]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.19-17.35.53:019][753]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.19-17.35.53:019][753]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.19-17.35.53:120][753]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.19-17.35.53:237][753]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.19-17.35.53:237][753]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.19-17.35.53:251][753]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.19-17.35.53:252][753]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.19-17.35.53:252][753]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.19-17.35.53:252][753]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.19-17.35.53:305][753]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.19-17.35.53:329][753]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.19-17.35.53:367][753]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.19-17.35.53:367][753]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.19-17.35.53:367][753]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.19-17.35.53:474][753]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.19-17.35.53:476][753]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.19-17.35.53:491][753]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.19-17.35.53:491][753]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.19-17.35.53:491][753]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.19-17.35.53:506][753]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.19-17.35.53:531][753]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.19-17.35.53:531][753]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.19-17.35.53:552][753]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.19-17.35.53:558][753]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.19-17.35.53:559][753]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.19-17.35.53:559][753]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.19-17.35.53:587][753]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.19-17.35.53:587][753]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.19-17.35.53:587][753]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.19-17.35.53:587][753]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.19-17.35.53:642][753]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.19-17.35.53:662][753]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.19-17.35.53:662][753]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.19-17.35.53:823][753]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.19-17.35.53:857][753]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.19-17.35.53:938][753]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.19-17.35.53:938][753]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.19-17.35.53:957][753]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.19-17.35.54:004][753]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.19-17.35.54:402][753]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.19-17.35.54:402][753]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.19-17.35.54:586][753]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.19-17.35.54:587][753]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.19-17.35.54:616][753]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.19-17.35.54:657][753]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.19-17.35.54:657][753]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.19-17.35.54:657][753]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.19-17.35.54:658][753]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.19-17.35.54:658][753]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.19-17.35.54:658][753]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.19-17.35.54:658][753]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.19-17.35.54:658][753]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.19-17.35.54:696][753]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.19-17.35.54:787][753]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.19-17.35.54:787][753]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.19-17.35.54:827][753]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.19-17.35.54:879][753]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.19-17.35.54:879][753]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.19-17.35.54:918][753]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.19-17.35.54:956][753]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.19-17.35.54:956][753]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.19-17.35.55:022][753]LogDerivedDataCache: Shutdown
+[2018.12.19-17.35.55:022][753]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.19-17.35.55:038][753]LogXGEController: Cleaning working directory: C:/Users/Admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.19-17.35.55:038][753]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.19-17.35.55:038][753]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.19-17.35.55:056][753]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.19-17.35.55:083][753]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.19-17.35.55:104][753]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.19-17.35.55:104][753]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.19-17.35.55:151][753]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.19-17.35.55:151][753]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.19-17.35.55:151][753]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.19-17.35.55:165][753]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.19-17.35.55:188][753]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.19-17.35.55:188][753]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.19-17.35.55:188][753]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.19-17.35.55:188][753]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.19-17.35.55:188][753]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.19-17.35.55:188][753]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.19-17.35.55:188][753]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.19-17.35.55:215][753]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.19-17.35.55:216][753]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.19-17.35.55:216][753]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.19-17.35.55:216][753]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.19-17.35.55:216][753]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.19-17.35.55:236][753]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.19-17.35.55:236][753]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.19-17.35.55:238][753]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.19-17.35.55:238][753]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.19-17.35.55:254][753]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.19-17.35.55:254][753]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.19-17.35.55:254][753]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.19-17.35.55:254][753]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.19-17.35.55:255][753]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.19-17.35.55:268][753]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.19-17.35.55:268][753]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.19-17.35.55:286][753]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.19-17.35.55:286][753]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.19-17.35.55:286][753]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.19-17.35.55:286][753]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.19-17.35.55:331][753]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.19-17.35.55:355][753]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.19-17.35.55:484][753]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.19-17.35.55:485][753]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.19-17.35.55:485][753]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B40565D0D-4EC5-24B8-439B-C5A9947C8EC2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=3c54d0b6423f1311f021c2af1d20fe9f%7C4bd30358624f411aa46c3fd34a068b73%7C3fe8680e-ad16-42c8-bc99-39757d0c7eba&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.19-17.35.55:496][753]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.19-17.35.55:498][753]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.19-17.35.55:498][753]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.19-17.35.55:498][753]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.19-17.35.55:498][753]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.19-17.35.55:498][753]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.19-17.35.55:498][753]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.19-17.35.55:498][753]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.19-17.35.55:498][753]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.19-17.35.55:499][753]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.19-17.35.55:560][753]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.19-17.35.55:561][753]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.19-17.35.55:659][753]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.19-17.35.55:659][753]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.19-17.35.55:746][753]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.19-17.35.55:792][753]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.19-17.35.55:792][753]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.19-17.35.55:792][753]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.19-17.35.55:824][753]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.19-17.35.55:909][753]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.19-17.35.55:909][753]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.19-17.35.55:945][753]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.19-17.35.55:945][753]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.19-17.35.55:945][753]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.19-17.35.55:945][753]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.19-17.35.55:945][753]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.19-17.35.55:945][753]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.19-17.35.55:945][753]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.19-17.35.55:945][753]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.19-17.35.56:097][753]LogExit: Exiting.
+[2018.12.19-17.35.56:119][753]Log file closed, 12/19/18 18:35:56
